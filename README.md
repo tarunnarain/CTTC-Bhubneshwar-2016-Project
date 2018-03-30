@@ -2,9 +2,9 @@
 Fully Automated Street Light Control System MicroContoler 8051  
 
 
-Software Used
-1  Keil c51v805
-2  Proteus 8
+Software Used:
+1.  Keil c51v805
+2.  Proteus 8
 
 Intruction to run
 
