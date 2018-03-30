@@ -6,7 +6,7 @@ Software Used:
 1.  Keil c51v805
 2.  Proteus 8
 
-Intruction to run
+Instructions to run:
 
 1. Load the given "Code" file in your Keil IDE
 2. Compile and Build Hex File
