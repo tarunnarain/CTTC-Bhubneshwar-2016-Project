@@ -1,7 +1,7 @@
 # CTTC-Bhubneshwar-2016-Project
 # An Embedded System Project 8051
 
-Fully Automated Street Light Control System MicroContoler 8051.
+Fully Automated Street Light Control System based on MicroContoler 8051.
 
 AIM
 To build a embedded system to control the street light automatically as per the time and the traffic present in its vicinity.
