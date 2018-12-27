@@ -1,7 +1,7 @@
 #include<reg51.h>
 
 #define MID_NIGHT 0 					//12 A.M
-#define MORNING 5					//5	 A.M
+#define MORNING 5					//5 A.M
 #define	EVENING	(18 + 6)				//18 = 6 P.M, IN BCD 18 IS (0001 1000) I.E = 24 
 #define TRAFFIC_THRESOLD 0x0F				//TRAFFIC THRESHOLD LEVEL
 
